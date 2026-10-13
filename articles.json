@@ -1,21 +1,5 @@
 [
   {
-    "id": "72",
-    "readMinutes": 1,
-    "ru": {
-      "title": "Статья",
-      "body": "Тест"
-    },
-    "en": {
-      "title": "Article",
-      "body": "Test"
-    },
-    "es": {
-      "title": "Artículo",
-      "body": "Prueba"
-    }
-  },
-  {
     "id": "71",
     "readMinutes": 3,
     "ru": {
